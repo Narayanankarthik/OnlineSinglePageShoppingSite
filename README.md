@@ -8,3 +8,7 @@ https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 
 git remote add origin https://github.com/Narayanankarthik/OnlineSinglePageShoppingSite.git
+
+npm -g i json-server
+
+npm -g i lite-server
