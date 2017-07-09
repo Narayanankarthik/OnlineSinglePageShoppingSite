@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id" : 1,
+      "name": "Product1",
+      "image": "product1.jpg",
+      "description": "Product Details....",
+      "price": 1200,
+      "new" : false,
+      "offer" : 12
+    },
+    {
+      "name": "Product2",
+      "image": "product2.jpg",
+      "description": "Product Details 2....",
+      "price": 2000
+    },
+    {
+      "id": "12",
+      "name": "Product4",
+      "image": "product4.jpg",
+      "description": "Product Details....",
+      "price": 200
+    }
+  ],
+  "users": [
+    {
+      "id": "12",
+      "name": "testUser"
+    },
+    {
+      "id": "2",
+      "name": "testUser2"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "onlineshopping",
+  "version": "1.0.0",
+  "description": "Actually We are focused to develop a Single Page Application based website..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narayanankarthik/OnlineSinglePageShoppingSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narayanankarthik/OnlineSinglePageShoppingSite/issues"
+  },
+  "homepage": "https://github.com/Narayanankarthik/OnlineSinglePageShoppingSite#readme",
+  "dependencies": {
+    "json-server": "^0.11.0",
+    "lite-server": "^2.3.0"
+  }
+}
